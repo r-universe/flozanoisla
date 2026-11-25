@@ -1,5 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "GerminaR"]
+	path = GerminaR
+	url = https://github.com/flozanoisla/germinar
+[submodule "huito"]
+	path = huito
+	url = https://github.com/flozanoisla/huito
+[submodule "inti"]
+	path = inti
+	url = https://github.com/flozanoisla/inti
